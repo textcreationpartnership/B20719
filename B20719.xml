@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to certain printed reasons for knights and burgesses in the County Palatine of Durham.</title>
+            <author>Cosin, John, 1594-1672.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20719</idno>
+            <idno type="STC">Wing C6350</idno>
+            <idno type="STC">Interim Tract Supplement Guide 190.g.13[422]</idno>
+            <idno type="STC">ESTC R214346</idno>
+            <idno type="EEBO-CITATION">99884293</idno>
+            <idno type="PROQUEST">ocm99884293</idno>
+            <idno type="VID">194226</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B20719)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 194226)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C29:2[423])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to certain printed reasons for knights and burgesses in the County Palatine of Durham.</title>
+                  <author>Cosin, John, 1594-1672.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1660?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Initial.</note>
+                  <note>Signed at end: Joh. Duresme.</note>
+                  <note>With a docket title.</note>
+                  <note>Publication date in Wing = [1665?], but related items appear to have been issued in 1660.</note>
+                  <note>A reply to either: Reasons humbly offered why the County Palatine of Durham should send knights and burgesses to Parliament; or, Reasons wherefore knights and burgesses are desired for the County Pallatine of Durham.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Political activity --  Early works to 1800.</term>
+               <term>Reasons humbly offered why the County Palatine of Durham should send knights and burgesses to Parliament --  Early works to 1800.</term>
+               <term>Reasons wherefore knights and burgesses are desired for the County Pallatine of Durham --  Early works to 1800.</term>
+               <term>Political rights --  England --  Durham (County) --  Early works to 1800.</term>
+               <term>Durham (England : County) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:194226:1" rendition="simple:additions"/>
+            <head>AN ANSWER To certain PRINTED REASONS For Knights and Burgeſſes in the County Palatine of <hi>Durham.</hi>
+            </head>
+            <p n="1">1. <seg rend="decorInit">I</seg>T hath alwayes been held a ſpecial <hi>Priviledge</hi> belonging to the Biſhoprick and Countie-Palatine of <hi>Durham,</hi> To be <hi>Exempt</hi> from ſending any <hi>Knights</hi> or <hi>Burgeſſes</hi> to ſit in <hi>Parliament</hi> for that Coun<g ref="char:EOLhyphen"/>ty.</p>
+            <p n="2">2. All the Biſhops of <hi>Durham,</hi> at their firſt Entrance and Inthronization, take a Solemne <hi>Oath</hi> to Defend and Preſerve all the accuſtomed Rights, Priviledges, and Immunities (whereof the afore<g ref="char:EOLhyphen"/>ſaid <hi>Priviledge</hi> and <hi>Exemption</hi> is One) appertaining to his Biſhoprick and Countie-Palatine. And this <hi>Oath</hi> the Bi<g ref="char:EOLhyphen"/>ſhop is bound to Obſerve; nor doth he yet know any Expedient that will free him from it.</p>
+            <p n="3">3. If any Law ſhould be now Made to take away that <hi>Priviledge,</hi> it would prove to be a great <hi>Innovation,</hi> and al<g ref="char:EOLhyphen"/>ter the Condition and Conſtitution of that <hi>Biſhoprick.</hi>
+            </p>
+            <p n="4">4. The Election of <hi>Knights</hi> and <hi>Burgeſſes</hi> cannot be made in that County without the King's <hi>Writ.</hi> But <hi>Breve Regis non currit in Comitatu Palatino Dunelmenſi:</hi> Which is the uſuall <hi>Returne</hi> that the Biſhop of <hi>Durham</hi> maketh to any <hi>Writ</hi> ſent unto him, in caſe any of his Liberties and Immunities be infringed by it.</p>
+            <p n="5">5. The <hi>City</hi> of <hi>Durham,</hi> and all other <hi>Corporations</hi> in that County hold their <hi>Charters</hi> from the Biſhop: to the ob<g ref="char:EOLhyphen"/>ſervance of whoſe Priviledges they are all <hi>Sworne,</hi> and Bound not to Attempt, or Act any thing to the contrary.</p>
+            <p n="6">6. This Attempt for <hi>Knights</hi> and <hi>Burgeſſes</hi> was firſt of all (about fifty three years ſince) Projected and Made by a few diſcontented Gentlemen, who ſought thereby, as they then threatned, to leſſen the Biſhops Power in his Courts and Juriſdiction over that <hi>County Palatine.</hi> But, their Attempt prevailed not at that time, nor ever ſince, in any <hi>Parli<g ref="char:EOLhyphen"/>aments</hi> following to this day. Neither could the <hi>King's</hi> Royal Progenitors ever be perſwaded to give way to any ſuch New Attempt or <hi>Innovation.</hi>
+            </p>
+            <p n="7">7. The whole County hath heretofore withſtood that <hi>Innovation,</hi> when it was firſt begun without the <hi>Conſent</hi> of the Biſhop: And in like manner many of the Freeholders and Gentlemen there withſtand it now, though ſome others among them ſhew themſelves vehemently deſirous of it, and for the better obtaining of their Purpoſe, have, by their Agents offered the Biſhop for the time being, that he ſhall have the <hi>Nomination</hi> of <hi>One Knight,</hi> and <hi>One Burgeſs,</hi> if by Conſent an <hi>Act</hi> of <hi>Parliament</hi> may be paſſed for it.</p>
+            <p n="8">8. There was never yet any <hi>Precedent</hi> for ſending ſuch <hi>Knights</hi> and <hi>Burgeſſes</hi> out of his Biſhoprick and Countie-Palatine, but onely in the time of <hi>CROMWELL</hi> the <hi>
+                  <g ref="char:V">Ʋ</g>ſurper,</hi> who violently took away the Rights and Priviledges of it, and gave leave to the diſloyall and diſaffected Party of the Country to chooſe <hi>One Knight,</hi> and <hi>One Burgeſs,</hi> after the Murther of the late King.</p>
+            <p n="9">9. The Perſons who now labour to ſet up <hi>Knights</hi> and <hi>Burgeſſes</hi> in this Countie-Palatine (and tell the Biſhop that they hope and expect to prevaile in it, whether he will give his confent to it or no) have neither any Right nor any Neceſſity to do it.</p>
+            <p n="10">10. For though they pretend to have the ſame Claim and Right, which all other Countries have in this particular, yet the <hi>Preſcription, Cuſtome</hi> and <hi>Practiſe</hi> in this County-Palatine is againſt them.</p>
+            <p n="11">11. And whereas they complaine that divers Taxes and Royall-Aides are impos'd upon them in <hi>Parliament,</hi> without their Conſent, having no <hi>Knights</hi> and <hi>Burgeſſes</hi> there to ſit and vote for them; Yet this <hi>Impoſition</hi> is <hi>no other</hi> then hath been alwayes heretofore uſed, nor hath any <hi>Exception</hi> till now of late been taken againſt it, Neither herein do they ſuffer any Injury or <hi>Inconvenience,</hi> having had ſpeciall care taken of them in all times by the Biſhops of <hi>Durham</hi> con<g ref="char:EOLhyphen"/>cerning the proportion of their Taxes, whereof (being equally rated with <hi>Other Counties,</hi> they have no reaſon to complain:) And having received the Benefit of all other Lawes made for the Kingdome; and in par<g ref="char:EOLhyphen"/>ticular the late Law of freeing them from <hi>Wardſhips,</hi> when they had no <hi>Knights</hi> and <hi>Burgeſſes</hi> of their <hi>Own</hi> to ſpeak for them in it, or to give <hi>Conſent</hi> thereunto, as all the reſt of the Kingdome did. Add hereunto for further anſwer to that Objection and Complaint, That divers ſuch Taxes and Impoſitions are laid upon the <hi>Clergy</hi> in that Biſhoprick and County-Palatine, who have no <hi>Repreſentatives</hi> admitted to conſent and vote for them in <hi>Parliament</hi> but onely their own Biſhop of <hi>Durham.</hi>
+            </p>
+            <p n="12">12. But the Biſhop of <hi>Durham</hi> in declining to give his Aſſent unto the preſent Deſires of ſome Gentlemen in this Countie-Palatine, who endeavour to make themſelves <hi>Knights</hi> and <hi>Burgeſſes</hi> after the Example of the <hi>Countie-Palatine</hi> of <hi>Cheſter</hi> (which is a Caſe farr different from this of <hi>Durham</hi>) is tender herein of the Good and Welfare of the County, in ſaving them much Trouble, Expences and Charges, which might otherwiſe be brought upon them; and carefull to preſerve the Ancient Conſtitution and Cuſtom of his Biſhoprick, and County-Palatine, which He and his Predeceſſors have held by <hi>Preſcription</hi> for many ages; being well aſſured, that the People and Inhabitants within this <hi>Countie-Palatine</hi> do receive a great Benefit, Eaſe, and Quietneſs by the Immunities and Priviledges which they continually enjoy there under the <hi>Biſhop</hi> of <hi>Durham.</hi> Of which Priviledges and Immunities, this is and ever hath been <hi>One,</hi> to be <hi>Exempt</hi> from Sending any Knights or Burgeſſes to Parliament.</p>
+            <closer>
+               <signed>JOH. D<g ref="char:V">Ʋ</g>RESME.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
